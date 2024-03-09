@@ -15,7 +15,7 @@ This makes a user send all messages from one/many chat(s) to another chat(s).
 * Deployment:
 
 - Clone the repo:   <code>git clone https://github.com/dhruvknsr/Telegram-AutoForwardBot</code></br>
-- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/dhruvknsr/Telegram-AutoForwardBot/.env.sample">.env.sample</a> and fill in the values.</br>
+- Make a <code>.env</code> file in the root of the repo, like <a href="https://github.com/dhruvknsr/Telegram-AutoForwardBot/blob/029edb1073d53b1584181a17d6a150f73860e2e4/.env.sample">.env.sample</a> and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
 
