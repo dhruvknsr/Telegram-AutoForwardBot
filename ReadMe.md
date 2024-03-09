@@ -1,4 +1,4 @@
-# Channel Auto-Post Bot
+# Telegram Auto Forward Bot
 
 This makes a user send all messages from one/many chat(s) to another chat(s).
 
